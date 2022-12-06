@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](https://github.com/AeX03/DevWebSite/blob/main/assets/images/Untitled_(2).png)
 # DevWebSite
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/AeX03/DevWebSite)
 [![version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/AeX03/DevWebSite)
