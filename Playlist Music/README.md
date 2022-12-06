@@ -16,7 +16,7 @@
 
 [![ELYS TOKEN](https://img.shields.io/badge/ELYS%20TOKEN-pink.svg)](https://app.bogged.finance/swap?tokenIn=BNB&tokenOut=0xdf31C98e74cf5aD09312f15D454C3C5ac27BcF36&embed=1)
 
-## Preview (no finish in develope)
+## Preview
 ![PreView]()
 ![DevWebSite]()
 
