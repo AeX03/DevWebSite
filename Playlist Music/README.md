@@ -14,8 +14,6 @@
 [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=AeX03.DevWebSite&left_color=gray&right_color=purple&left_text=New%20Visitors%20Today)](https://github.com/AeX03)
 <br>
 
-[![ELYS TOKEN](https://img.shields.io/badge/ELYS%20TOKEN-pink.svg)](https://app.bogged.finance/swap?tokenIn=BNB&tokenOut=0xdf31C98e74cf5aD09312f15D454C3C5ac27BcF36&embed=1)
-
 ## Preview
 ![PreView]()
 ![DevWebSite]()
